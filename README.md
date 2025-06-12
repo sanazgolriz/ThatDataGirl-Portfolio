@@ -48,7 +48,7 @@ Scraped product reviews and analyzed customer sentiment using natural language p
 
 I’m available for freelance work and collaboration!  
 📧 Email: sanazgolriz@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sanazgolriz/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sanaz-golriz-phd-2011107b/)  
 🌐 [Portfolio Website](https://thedataglow.com)
 
 ---
