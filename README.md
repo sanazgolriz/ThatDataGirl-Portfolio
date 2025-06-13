@@ -1,4 +1,4 @@
-# TheDataGlow – Portfolio by Sanaz Golriz
+# ThatDataGirl – Portfolio by Sanaz Golriz
 
 👋 Hi, I’m Sanaz – a data analyst and storyteller passionate about uncovering insights that drive smart decisions.  
 I specialize in turning messy data into actionable dashboards, predictive models, and clear visual stories.
