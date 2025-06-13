@@ -38,7 +38,7 @@ Scraped product reviews and analyzed customer sentiment using natural language p
 - Python (pandas, NumPy, matplotlib, seaborn, scikit-learn)
 - Power BI & Excel dashboards
 - Data cleaning & wrangling
-- Predictive modeling
+- Predictive modelling
 - Web scraping
 - Storytelling & business communication
 
@@ -49,8 +49,5 @@ Scraped product reviews and analyzed customer sentiment using natural language p
 I’m available for freelance work and collaboration!  
 📧 Email: sanazgolriz@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sanaz-golriz-phd-2011107b/)  
-🌐 [Portfolio Website](https://thedataglow.com)
+🌐 [Portfolio Website](https://thatdatagirl.tech)
 
----
-
-*Let the data glow.*
